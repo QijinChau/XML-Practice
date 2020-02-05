@@ -2,7 +2,7 @@
 
 /* CSS Document */
 
-books { 
+Coverband { 
     color: white; 
     background-color: #b2ffb2; 
     width: 100%; 
@@ -13,6 +13,13 @@ heading {
     font-family: script; 
     background-color: #ffffb2; 
 } 
+Song { 
+    display: block;  
+    border: 1px solid silver; 
+    margin: 0.75em;  
+    padding: 0.75em;  
+    background-color: whitesmoke; 
+}
 heading, Artist, Title, MusicGenre, YearOfRelease { 
      display: block; 
 } 
