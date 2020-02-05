@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="practice.css"?> 
+<Coverband>
+	<heading>The Cover Band</heading>
+	<Song>
+		<Artist>The Beatles</Artist>
+		<Title>All You Need Is Love</Title>
+		<MusicGenre>Classic Rock</MusicGenre>
+		<YearOfRelease>1999</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>The Beatles</Artist>
+		<Title>Blackbird</Title>
+		<MusicGenre>Classic Rock</MusicGenre>
+		<YearOfRelease>2010</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>The Eagles</Artist>
+		<Title>Desperado</Title>
+		<MusicGenre>Classic Rock</MusicGenre>
+		<YearOfRelease>1973</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>Michael Jackson</Artist>
+		<Title>Bille Jean</Title>
+		<MusicGenre>Classic Pop</MusicGenre>
+		<YearOfRelease>1983</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>Sting</Artist>
+		<Title>Fields of Gold</Title>
+		<MusicGenre>Classic Rock</MusicGenre>
+		<YearOfRelease>2019</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>MGMT</Artist>
+		<Title>Electric Feel</Title>
+		<MusicGenre>Alternative</MusicGenre>
+		<YearOfRelease>2007</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>Foster the People</Artist>
+		<Title>Pumped Up Kicks</Title>
+		<MusicGenre>Alternative</MusicGenre>
+		<YearOfRelease>2010</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>Randy Travis</Artist>
+		<Title>Deeper Than the Holler</Title>
+		<MusicGenre>Country</MusicGenre>
+		<YearOfRelease>1988</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>Tim McGraw</Artist>
+		<Title>My Little Girl</Title>
+		<MusicGenre>Country</MusicGenre>
+		<YearOfRelease>2006</YearOfRelease>
+	</Song>
+	<Song>
+		<Artist>Darius Rucker</Artist>
+		<Title>Wagon Wheel</Title>
+		<MusicGenre>Country</MusicGenre>
+		<YearOfRelease>2013</YearOfRelease>
+	</Song>
+</Coverband>
