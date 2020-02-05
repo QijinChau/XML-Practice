@@ -3,15 +3,16 @@
 /* CSS Document */
 
 Coverband { 
-    color: white; 
+    color: #ffa500; 
     background-color: #b2ffb2; 
     width: 100%; 
 } 
 heading { 
     color: #1919ff; 
     font-size: 45px;
-    font-family: script; 
-    background-color: #ffffb2; 
+    font-family: script;
+    text-align: center;
+    background-color: #ffffb2;
 } 
 Song { 
     display: block;  
